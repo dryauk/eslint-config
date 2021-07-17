@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-yarn add -D eslint prettier @dryauk/eslint-config
+yarn add -D eslint prettier typescript @dryauk/eslint-config
 ```
 
 ## Usage
