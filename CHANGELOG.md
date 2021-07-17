@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dryauk/eslint-config/compare/v1.0.0...v1.1.0) (2021-07-17)
+
+
+### Features
+
+* add typescript as peer dependency ([44c9c32](https://github.com/dryauk/eslint-config/commit/44c9c321245dface6c1f5ff10fecdaad08a928d8))
+
 # 1.0.0 (2021-07-17)
 
 
