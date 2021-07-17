@@ -1,0 +1,42 @@
+{
+  "name": "@dryauk/eslint-config",
+  "version": "0.1.0",
+  "description": "ESLint shareable configuration",
+  "author": "DryAuk (https://github.com/dryauk)",
+  "homepage": "https://github.com/dryauk/eslint-config#readme",
+  "repository": "https://github.com/dryauk/eslint-config",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16",
+    "yarn": ">=1.20"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "prepare": "husky install",
+    "lint": "yarn lint:commit",
+    "lint:commit": "commitlint --from=$( git rev-list --tags --max-count=1 )"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@dryauk/commitlint-config": "^1.0.0",
+    "@dryauk/semantic-release-config": "^1.0.0",
+    "husky": "^7.0.1",
+    "semantic-release": "^17.4.4"
+  },
+  "commitlint": {
+    "extends": "@dryauk/commitlint-config"
+  },
+  "release": {
+    "extends": "@dryauk/semantic-release-config"
+  }
+}
