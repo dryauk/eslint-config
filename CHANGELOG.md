@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/dryauk/eslint-config/compare/v1.1.0...v1.1.1) (2021-07-17)
+
+
+### Bug Fixes
+
+* fix eslint config ([c399a1a](https://github.com/dryauk/eslint-config/commit/c399a1adc910e8c48b9615f25ccb809a62e9b3d9))
+
 # [1.1.0](https://github.com/dryauk/eslint-config/compare/v1.0.0...v1.1.0) (2021-07-17)
 
 
