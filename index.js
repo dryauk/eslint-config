@@ -24,6 +24,15 @@ module.exports = {
     '@typescript-eslint/member-delimiter-style': 'error',
     '@typescript-eslint/no-explicit-any': 'off',
     '@typescript-eslint/no-unused-vars': 'error',
+    '@typescript-eslint/explicit-member-accessibility': [
+      'error',
+      {
+        accessibility: 'explicit',
+        overrides: {
+          constructors: 'no-public',
+        },
+      },
+    ],
     'import/no-useless-path-segments': ['error', {
       noUselessIndex: true,
     }],
