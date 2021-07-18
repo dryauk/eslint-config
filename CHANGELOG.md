@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/dryauk/eslint-config/compare/v1.2.0...v1.3.0) (2021-07-18)
+
+
+### Features
+
+* fix peer dependencies ([df346a3](https://github.com/dryauk/eslint-config/commit/df346a3ae6edd818ef534f64533c02551ef43b26))
+
 # [1.2.0](https://github.com/dryauk/eslint-config/compare/v1.1.1...v1.2.0) (2021-07-18)
 
 
