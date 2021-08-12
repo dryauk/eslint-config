@@ -1,4 +1,5 @@
 version: 2
+
 registries:
   npm-registry-github:
     type: npm-registry
@@ -11,5 +12,7 @@ updates:
     schedule:
       interval: daily
     open-pull-requests-limit: 5
+    reviewers:
+      - 'dryauk/ci'
     registries:
       - npm-registry-github
