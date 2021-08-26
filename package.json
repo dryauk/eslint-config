@@ -42,7 +42,7 @@
     "@dryauk/commitlint-config": "^2.0.0",
     "@dryauk/semantic-release-config": "^1.1.0",
     "husky": "^7.0.1",
-    "semantic-release": "^17.4.6"
+    "semantic-release": "^17.4.7"
   },
   "commitlint": {
     "extends": "@dryauk/commitlint-config"
