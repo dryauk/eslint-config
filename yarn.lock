@@ -170,13 +170,13 @@
   dependencies:
     "@commitlint/config-conventional" "^13.1.0"
 
-"@dryauk/semantic-release-config@^2.0.0":
-  version "2.0.0"
-  resolved "https://npm.pkg.github.com/download/@dryauk/semantic-release-config/2.0.0/321e44b37c7c91ebe8390f6479998f92b6759a8642578309e571e7640f7345ed#a892c9baa5b28391c0928ea8c992869e0826efcc"
-  integrity sha512-ajmlUU42OX7SKz8aSArHG7D6B7kDshQM7KZ4L1+5utn2X8PomrBedlxOiKzRG4MxkLCGobqcGzhTXWezrBMJsQ==
+"@dryauk/semantic-release-config@^2.1.0":
+  version "2.1.0"
+  resolved "https://npm.pkg.github.com/download/@dryauk/semantic-release-config/2.1.0/88136ba8c9891f035226a7b3dd009c7308f6ad8c91a2f9cea13a9b9ef16c6d1e#402e815a51f9c109bc074c8408c14aeedd9f71cd"
+  integrity sha512-IFoOEX6f/xiT06/fafg7gWRUCu6EGY0PWczSAXkisTMa4DZSEmct4m33WAwTCDWksTRiiWfd37zwMnW881zFrg==
   dependencies:
-    "@semantic-release/changelog" "^6.0.0"
-    "@semantic-release/git" "^10.0.0"
+    "@semantic-release/changelog" "^6.0.1"
+    "@semantic-release/git" "^10.0.1"
 
 "@endemolshinegroup/cosmiconfig-typescript-loader@^3.0.2":
   version "3.0.2"
@@ -455,7 +455,7 @@
   dependencies:
     "@octokit/openapi-types" "^8.3.0"
 
-"@semantic-release/changelog@^6.0.0":
+"@semantic-release/changelog@^6.0.1":
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/@semantic-release/changelog/-/changelog-6.0.1.tgz#8dd0334fd8c7d50cda747d2591e4f18f816b3c9c"
   integrity sha512-FT+tAGdWHr0RCM3EpWegWnvXJ05LQtBkQUaQRIExONoXjVjLuOILNm4DEKNaV+GAQyJjbLRVs57ti//GypH6PA==
@@ -488,7 +488,7 @@
   resolved "https://registry.yarnpkg.com/@semantic-release/error/-/error-3.0.0.tgz#30a3b97bbb5844d695eb22f9d3aa40f6a92770c2"
   integrity sha512-5hiM4Un+tpl4cKw3lV4UgzJj+SmfNIDCLLw0TepzQxz9ZGV5ixnqkzIVF+3tp0ZHgcMKE+VNGHJjEeyFG2dcSw==
 
-"@semantic-release/git@^10.0.0":
+"@semantic-release/git@^10.0.1":
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/@semantic-release/git/-/git-10.0.1.tgz#c646e55d67fae623875bf3a06a634dd434904498"
   integrity sha512-eWrx5KguUcU2wUPaO6sfvZI0wPafUKAMNC18aXY4EnNcrZL86dEmpNVnC9uMpGZkmZJ9EfCVJBQx4pV4EMGT1w==
