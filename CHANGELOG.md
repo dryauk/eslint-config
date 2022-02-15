@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dryauk/eslint-config/compare/v1.3.1...v2.0.0) (2022-02-15)
+
+
+### chore
+
+* bump all dependencies ([72a0b2e](https://github.com/dryauk/eslint-config/commit/72a0b2efe518651bbca36f7f05a44f71670dd403))
+
+
+### BREAKING CHANGES
+
+* Require eslint@^8
+
 ## [1.3.1](https://github.com/dryauk/eslint-config/compare/v1.3.0...v1.3.1) (2022-02-15)
 
 # [1.3.0](https://github.com/dryauk/eslint-config/compare/v1.2.0...v1.3.0) (2021-07-18)
