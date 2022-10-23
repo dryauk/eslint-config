@@ -1,6 +1,6 @@
 {
   "name": "@dryauk/eslint-config",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "ESLint shareable configuration",
   "author": "DryAuk (https://github.com/dryauk)",
   "homepage": "https://github.com/dryauk/eslint-config#readme",
