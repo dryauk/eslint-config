@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/dryauk/eslint-config/compare/v3.1.0...v3.2.0) (2023-12-15)
+
+
+### Features
+
+* set package access to public ([4de2d92](https://github.com/dryauk/eslint-config/commit/4de2d92391331effdface5739dfff5b40c508602))
+
 # [3.1.0](https://github.com/dryauk/eslint-config/compare/v3.0.0...v3.1.0) (2023-12-15)
 
 
