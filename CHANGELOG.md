@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/dryauk/eslint-config/compare/v3.0.0...v3.1.0) (2023-12-15)
+
+
+### Features
+
+* use default member ordering ([6fb1ef7](https://github.com/dryauk/eslint-config/commit/6fb1ef71ec77e5dcf97f2014744dcca226695d9d))
+
 # [3.0.0](https://github.com/dryauk/eslint-config/compare/v2.0.4...v3.0.0) (2023-12-15)
 
 
