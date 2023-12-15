@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dryauk/eslint-config/compare/v2.0.4...v3.0.0) (2023-12-15)
+
+
+### chore
+
+* upgrade node version to 20 ([78edcdb](https://github.com/dryauk/eslint-config/commit/78edcdb8d559aaa7493fbc76d54d42bfba80f89b))
+
+
+### BREAKING CHANGES
+
+* Require node@20, prettier@3 and typescript@5
+
 ## [2.0.4](https://github.com/dryauk/eslint-config/compare/v2.0.3...v2.0.4) (2022-10-23)
 
 ## [2.0.3](https://github.com/dryauk/eslint-config/compare/v2.0.2...v2.0.3) (2022-10-23)
